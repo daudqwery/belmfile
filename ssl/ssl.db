@@ -1,0 +1,95 @@
+--- 
+files: 
+  certificate: 
+    _wildcard__logammuliaku_com_ce55f_b8bf9_1782383714_c659d6cdb378e793040e648b0e8c7a2b: 
+      created: '1774611226'
+      domains: 
+        - "*.logammuliaku.com"
+        - logammuliaku.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “logammuliaku.com” 1774611226.0
+      id: _wildcard__logammuliaku_com_ce55f_b8bf9_1782383714_c659d6cdb378e793040e648b0e8c7a2b
+      is_self_signed: 0
+      issuer.commonName: R12
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: ce55f4891bc932cf886b8fa51e9070f53d47f696b53ba77846350210b041a2f320f18c77515aef8aa7fb9d8509397848f745bff9a481184c3d4fcf4966d2417ba7da2ff41539eac399a61f653efaa56d016a39b03fa09eea46640ed2647fcf6ca47d47ecf5187f7a28d2b67f7b4ac8d3ff713c007e9fbee80f068d4c14841bfeaf4d1c30a6f6aa276c21436a3289564c4769cdbd53d8011114fc8dab740a32c7899e75c084a653d6058e7cd0c8b80fe4449c4911d127511e96bbcb422870af54dda52bb76f2966e703dc0e3f51fdca37cb8b0a73e56877e7ab645f189f403dbc6ea7e2da83879b9a77125007f6cb985756bf267b0616614543a6c76c125b8bf9
+      modulus_length: 2048
+      not_after: '1782383714'
+      not_before: '1774607715'
+      serial: 06e4cda87ec306840f9ef80b14ead57adaee
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.logammuliaku.com"
+      validation_type: dv
+    logammuliaku_com_dec94_fc937_1806140009_efd4b48ca69e4f459ec66052a0f1fd04: 
+      created: '1774604009'
+      domains: 
+        - logammuliaku.com
+        - www.logammuliaku.com
+        - mail.logammuliaku.com
+        - cpanel.logammuliaku.com
+        - webmail.logammuliaku.com
+        - webdisk.logammuliaku.com
+        - cpcontacts.logammuliaku.com
+        - cpcalendars.logammuliaku.com
+        - autodiscover.logammuliaku.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “logammuliaku.com”
+      id: logammuliaku_com_dec94_fc937_1806140009_efd4b48ca69e4f459ec66052a0f1fd04
+      is_self_signed: 1
+      issuer.commonName: logammuliaku.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: dec945c99b58b15b82e745ca71fd8d0fd27096ca4416482dc3ccaca507a8f533d89525d0bebb55554077bdac18b737895527330c0425dfdda958b0c0e67e5bf26b34e10e2f5cef0543856b511169e97937b3da87e74b35c9893cae5700664c8d37893bb4984a6aff73756872d613c0379af50f6b32516433104c3b5bede92318af5d49c8743a95675c9ce08359995240ef050d95c57f0c5b8cdf06260eab99c51ded489f038960354544f5e1015dab6c8cb404aa3a731f261699380726496ff74b383083155306c800d4634b3470333b4206c16e38263cc1989496141e0a241bf8939a8f502e74a0243295ff3ed2f6d1a0d4be9914ceb1c62e30205bbb4fc937
+      modulus_length: 2048
+      not_after: '1806140009'
+      not_before: '1774604009'
+      serial: 021551eef7
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: logammuliaku.com
+      validation_type: ~
+  key: 
+    ce55f_b8bf9_efb15a8ace3729221f712ef6ba1888d4: 
+      created: '1774611226'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “logammuliaku.com” 1774611226.0
+      id: ce55f_b8bf9_efb15a8ace3729221f712ef6ba1888d4
+      key_algorithm: rsaEncryption
+      modulus: ce55f4891bc932cf886b8fa51e9070f53d47f696b53ba77846350210b041a2f320f18c77515aef8aa7fb9d8509397848f745bff9a481184c3d4fcf4966d2417ba7da2ff41539eac399a61f653efaa56d016a39b03fa09eea46640ed2647fcf6ca47d47ecf5187f7a28d2b67f7b4ac8d3ff713c007e9fbee80f068d4c14841bfeaf4d1c30a6f6aa276c21436a3289564c4769cdbd53d8011114fc8dab740a32c7899e75c084a653d6058e7cd0c8b80fe4449c4911d127511e96bbcb422870af54dda52bb76f2966e703dc0e3f51fdca37cb8b0a73e56877e7ab645f189f403dbc6ea7e2da83879b9a77125007f6cb985756bf267b0616614543a6c76c125b8bf9
+      modulus_length: 2048
+    dec94_fc937_c8f86716f8f4b6540d404202d66f2d3e: 
+      created: '1774604009'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “logammuliaku.com”
+      id: dec94_fc937_c8f86716f8f4b6540d404202d66f2d3e
+      key_algorithm: rsaEncryption
+      modulus: dec945c99b58b15b82e745ca71fd8d0fd27096ca4416482dc3ccaca507a8f533d89525d0bebb55554077bdac18b737895527330c0425dfdda958b0c0e67e5bf26b34e10e2f5cef0543856b511169e97937b3da87e74b35c9893cae5700664c8d37893bb4984a6aff73756872d613c0379af50f6b32516433104c3b5bede92318af5d49c8743a95675c9ce08359995240ef050d95c57f0c5b8cdf06260eab99c51ded489f038960354544f5e1015dab6c8cb404aa3a731f261699380726496ff74b383083155306c800d4634b3470333b4206c16e38263cc1989496141e0a241bf8939a8f502e74a0243295ff3ed2f6d1a0d4be9914ceb1c62e30205bbb4fc937
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      ce55f4891bc932cf886b8fa51e9070f53d47f696b53ba77846350210b041a2f320f18c77515aef8aa7fb9d8509397848f745bff9a481184c3d4fcf4966d2417ba7da2ff41539eac399a61f653efaa56d016a39b03fa09eea46640ed2647fcf6ca47d47ecf5187f7a28d2b67f7b4ac8d3ff713c007e9fbee80f068d4c14841bfeaf4d1c30a6f6aa276c21436a3289564c4769cdbd53d8011114fc8dab740a32c7899e75c084a653d6058e7cd0c8b80fe4449c4911d127511e96bbcb422870af54dda52bb76f2966e703dc0e3f51fdca37cb8b0a73e56877e7ab645f189f403dbc6ea7e2da83879b9a77125007f6cb985756bf267b0616614543a6c76c125b8bf9: 
+        _wildcard__logammuliaku_com_ce55f_b8bf9_1782383714_c659d6cdb378e793040e648b0e8c7a2b: ~
+      dec945c99b58b15b82e745ca71fd8d0fd27096ca4416482dc3ccaca507a8f533d89525d0bebb55554077bdac18b737895527330c0425dfdda958b0c0e67e5bf26b34e10e2f5cef0543856b511169e97937b3da87e74b35c9893cae5700664c8d37893bb4984a6aff73756872d613c0379af50f6b32516433104c3b5bede92318af5d49c8743a95675c9ce08359995240ef050d95c57f0c5b8cdf06260eab99c51ded489f038960354544f5e1015dab6c8cb404aa3a731f261699380726496ff74b383083155306c800d4634b3470333b4206c16e38263cc1989496141e0a241bf8939a8f502e74a0243295ff3ed2f6d1a0d4be9914ceb1c62e30205bbb4fc937: 
+        logammuliaku_com_dec94_fc937_1806140009_efd4b48ca69e4f459ec66052a0f1fd04: ~
+    subject.commonName: 
+      "*.logammuliaku.com": 
+        _wildcard__logammuliaku_com_ce55f_b8bf9_1782383714_c659d6cdb378e793040e648b0e8c7a2b: ~
+      logammuliaku.com: 
+        logammuliaku_com_dec94_fc937_1806140009_efd4b48ca69e4f459ec66052a0f1fd04: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “logammuliaku.com”: logammuliaku_com_dec94_fc937_1806140009_efd4b48ca69e4f459ec66052a0f1fd04
+      Cert for “logammuliaku.com” 1774611226.0: _wildcard__logammuliaku_com_ce55f_b8bf9_1782383714_c659d6cdb378e793040e648b0e8c7a2b
+  key: 
+    friendly_name: 
+      Key for “logammuliaku.com”: dec94_fc937_c8f86716f8f4b6540d404202d66f2d3e
+      Key for “logammuliaku.com” 1774611226.0: ce55f_b8bf9_efb15a8ace3729221f712ef6ba1888d4
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      ce55f4891bc932cf886b8fa51e9070f53d47f696b53ba77846350210b041a2f320f18c77515aef8aa7fb9d8509397848f745bff9a481184c3d4fcf4966d2417ba7da2ff41539eac399a61f653efaa56d016a39b03fa09eea46640ed2647fcf6ca47d47ecf5187f7a28d2b67f7b4ac8d3ff713c007e9fbee80f068d4c14841bfeaf4d1c30a6f6aa276c21436a3289564c4769cdbd53d8011114fc8dab740a32c7899e75c084a653d6058e7cd0c8b80fe4449c4911d127511e96bbcb422870af54dda52bb76f2966e703dc0e3f51fdca37cb8b0a73e56877e7ab645f189f403dbc6ea7e2da83879b9a77125007f6cb985756bf267b0616614543a6c76c125b8bf9: ce55f_b8bf9_efb15a8ace3729221f712ef6ba1888d4
+      dec945c99b58b15b82e745ca71fd8d0fd27096ca4416482dc3ccaca507a8f533d89525d0bebb55554077bdac18b737895527330c0425dfdda958b0c0e67e5bf26b34e10e2f5cef0543856b511169e97937b3da87e74b35c9893cae5700664c8d37893bb4984a6aff73756872d613c0379af50f6b32516433104c3b5bede92318af5d49c8743a95675c9ce08359995240ef050d95c57f0c5b8cdf06260eab99c51ded489f038960354544f5e1015dab6c8cb404aa3a731f261699380726496ff74b383083155306c800d4634b3470333b4206c16e38263cc1989496141e0a241bf8939a8f502e74a0243295ff3ed2f6d1a0d4be9914ceb1c62e30205bbb4fc937: dec94_fc937_c8f86716f8f4b6540d404202d66f2d3e
